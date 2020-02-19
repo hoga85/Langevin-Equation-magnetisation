@@ -3,3 +3,6 @@ The presented R script aims at demonstrating the temperature dependence of magne
 
 
 # Simulation Results:
+
+![picture](C004_MPT_signal3.PNG?raw=true "Title")
+Fig. 1. Simulated result of the temperature dependence of magnetisation harmonics.
